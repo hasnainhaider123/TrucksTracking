@@ -2,18 +2,27 @@ package com.rco.truckstracking
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Button
+import android.widget.EditText
+import android.widget.TextView
 
-class MainActivity : AppCompatActivity() {
+class
+MainActivity : AppCompatActivity() {
 
-    private val TAG = MainActivity::class.java.simpleName
-
-    lateinit var splashThread: Thread
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val showButton
+                = findViewById<Button>(R.id.showInput)
+        val editText
+                = findViewById<EditText>(R.id.editText)
+        val textView
+                = findViewById<TextView>(R.id.txtVw)
+
     }
-    //added new branch
 
     //utbah first commit changes
+
 
 }
