@@ -54,5 +54,15 @@ class MainActivity : AppCompatActivity() {
 
     //utbah first commit changes
 
+//    Hello Hassnain
+
+//    val showButton
+//            = findViewById<Button>(R.id.showInput)
+//    val editText
+//            = findViewById<EditText>(R.id.editText)
+//    val textView
+//            = findViewById<TextView>(R.id.txtVw)
+
+
 
 }
