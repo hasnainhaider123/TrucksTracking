@@ -12,8 +12,468 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
     //added new branch
 
     //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes'  //added new branch
+    //
+    //    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+    //added new branch
+
+    //utbah first commit changes
+
+
+
+
+
+
+//    Hello Hassnain
+
+//    val showButton
+//            = findViewById<Button>(R.id.showInput)
+//    val editText
+//            = findViewById<EditText>(R.id.editText)
+//    val textView
+//            = findViewById<TextView>(R.id.txtVw)
+
+
 
 }
